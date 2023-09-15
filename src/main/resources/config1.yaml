@@ -1,0 +1,10 @@
+https:
+ port:"8081"
+
+sheets:
+ clientid: "53735095196-b99qr18v0uaaikk15g6ca40q90mj3ek6.apps.googleusercontent.com"
+ clientse: "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"
+ callback: "http://localhost:8081/callback"
+ sheet: "1N78MlvXlDPgsxv34ZE-ljyJtUGODKkFR2B4uXFs8Ewo"
+ range: "Sheet1"
+ resourceid: "demouser"

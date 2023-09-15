@@ -1,0 +1,17 @@
+#%RAML 1.0
+title: GooglesheetAPI
+version: v2
+protocols: [HTTP,HTTPS]
+
+/googlesheet:
+  get:
+    responses:
+      200:
+        body:
+          application/json:
+            example:
+              {
+                "message": "success"
+              }
+
+    
